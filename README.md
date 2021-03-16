@@ -1,1 +1,1 @@
-# sonic_cursos_flutter
+# Sonic Cursos - Flutter (Network Image)
