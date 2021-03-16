@@ -1,1 +1,3 @@
-# sonic_cursos_flutter
+# Sonic Cursos - Tips Flutter
+
+Vários mini tutoriais sobre flutter
