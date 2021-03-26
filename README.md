@@ -1,3 +1,1 @@
-# Sonic Cursos - Tips Flutter
-
-Vários mini tutoriais sobre flutter
+# Sonic Cursos - Tips Flutter (Remover Back Button)
