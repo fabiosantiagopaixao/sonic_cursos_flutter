@@ -11,4 +11,4 @@ Many tips that I’m learning in flutter, I’m sharing on my channel.
 <a href="https://github.com/fabiosantiagopaixao/sonic_cursos_flutter/tree/feature/network_image">Network image</a><br />
 <a href="https://github.com/fabiosantiagopaixao/sonic_cursos_flutter/tree/feature/remove_back_button">Remove back button</a><br />
 
-My channel in portuguese: <a href="https://www.youtube.com/channel/UCfegi9brT0ZwiqdU1km_GAQ">Sonic Cursos</a>
+<b>My channel in portuguese:</b> <a href="https://www.youtube.com/channel/UCfegi9brT0ZwiqdU1km_GAQ">Sonic Cursos</a>
